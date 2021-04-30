@@ -1,0 +1,36 @@
+h1{
+    color:#8b008b
+}
+*{
+    background-color:#ba55d3
+}
+
+.heading{
+    background-color:#7b68ee;
+    display:flex;
+    justify-content:space-between
+}
+
+a:link{
+    color:chartreuse;
+}
+
+a:visited{
+    color:crimson;
+}
+
+
+
+
+.name{
+display:flex;
+justify-content:space-evenly;
+flex-wrap:wrap;    
+}
+
+.name:hover img{
+transform:scale(1.2);
+}
+
+
+
